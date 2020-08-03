@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/hobr8/Dropbox/Upenn/CIT591/testfx-core-4.0.16-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hobr8/Dropbox/Upenn/CIT591/testfx-junit-4.0.15-alpha.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
